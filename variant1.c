@@ -68,4 +68,4 @@ void edit(int mas[], int n)
                         printf("%3d", mas[j]);
                 printf("\n");
         }
-
+}
